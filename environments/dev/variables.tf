@@ -9,3 +9,7 @@ variable "region" {
 variable "region_asia_south2" {
   type = string
 }
+
+variable "github_actions_sa_name" {
+  type = string
+}
